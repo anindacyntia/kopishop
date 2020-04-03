@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kopishop/precache-manifest.cc9b5b90080f0e90b37165373309e95e.js"
+  "/kopishop/precache-manifest.e5201b0b3a460ce4a546d0c370868cee.js"
 );
 
 self.addEventListener('message', (event) => {

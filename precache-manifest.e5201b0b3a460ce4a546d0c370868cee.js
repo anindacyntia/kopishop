@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "575e02b99a1b73a94abdb289864712d7",
+    "revision": "5ba60c40b2f745d984d814d3a45242ed",
     "url": "/kopishop/index.html"
   },
   {
-    "revision": "d9c97bec25c1129bd6f0",
+    "revision": "37444a0fe0ac0f8f9906",
     "url": "/kopishop/static/css/2.4b6e3ef2.chunk.css"
   },
   {
-    "revision": "2fd33ec9d5952c5a6dc0",
+    "revision": "7ce57c9c4b413e6c0626",
     "url": "/kopishop/static/css/main.df24cb87.chunk.css"
   },
   {
-    "revision": "d9c97bec25c1129bd6f0",
-    "url": "/kopishop/static/js/2.02a83670.chunk.js"
+    "revision": "37444a0fe0ac0f8f9906",
+    "url": "/kopishop/static/js/2.bd545357.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/kopishop/static/js/2.02a83670.chunk.js.LICENSE.txt"
+    "url": "/kopishop/static/js/2.bd545357.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fd33ec9d5952c5a6dc0",
-    "url": "/kopishop/static/js/main.7f47350f.chunk.js"
+    "revision": "7ce57c9c4b413e6c0626",
+    "url": "/kopishop/static/js/main.24d74969.chunk.js"
   },
   {
-    "revision": "98849594e795270ed15f",
-    "url": "/kopishop/static/js/runtime-main.efdeb199.js"
+    "revision": "00b9638fc8b8d6604228",
+    "url": "/kopishop/static/js/runtime-main.70f63bec.js"
   },
   {
     "revision": "7ffeedfdf359e4c7b6e8bb8b40cf874b",

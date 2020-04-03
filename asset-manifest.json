@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/kopishop/static/css/main.df24cb87.chunk.css",
-    "main.js": "/kopishop/static/js/main.7f47350f.chunk.js",
-    "main.js.map": "/kopishop/static/js/main.7f47350f.chunk.js.map",
-    "runtime-main.js": "/kopishop/static/js/runtime-main.efdeb199.js",
-    "runtime-main.js.map": "/kopishop/static/js/runtime-main.efdeb199.js.map",
+    "main.js": "/kopishop/static/js/main.24d74969.chunk.js",
+    "main.js.map": "/kopishop/static/js/main.24d74969.chunk.js.map",
+    "runtime-main.js": "/kopishop/static/js/runtime-main.70f63bec.js",
+    "runtime-main.js.map": "/kopishop/static/js/runtime-main.70f63bec.js.map",
     "static/css/2.4b6e3ef2.chunk.css": "/kopishop/static/css/2.4b6e3ef2.chunk.css",
-    "static/js/2.02a83670.chunk.js": "/kopishop/static/js/2.02a83670.chunk.js",
-    "static/js/2.02a83670.chunk.js.map": "/kopishop/static/js/2.02a83670.chunk.js.map",
+    "static/js/2.bd545357.chunk.js": "/kopishop/static/js/2.bd545357.chunk.js",
+    "static/js/2.bd545357.chunk.js.map": "/kopishop/static/js/2.bd545357.chunk.js.map",
     "index.html": "/kopishop/index.html",
-    "precache-manifest.cc9b5b90080f0e90b37165373309e95e.js": "/kopishop/precache-manifest.cc9b5b90080f0e90b37165373309e95e.js",
+    "precache-manifest.e5201b0b3a460ce4a546d0c370868cee.js": "/kopishop/precache-manifest.e5201b0b3a460ce4a546d0c370868cee.js",
     "service-worker.js": "/kopishop/service-worker.js",
     "static/css/2.4b6e3ef2.chunk.css.map": "/kopishop/static/css/2.4b6e3ef2.chunk.css.map",
     "static/css/main.df24cb87.chunk.css.map": "/kopishop/static/css/main.df24cb87.chunk.css.map",
-    "static/js/2.02a83670.chunk.js.LICENSE.txt": "/kopishop/static/js/2.02a83670.chunk.js.LICENSE.txt",
+    "static/js/2.bd545357.chunk.js.LICENSE.txt": "/kopishop/static/js/2.bd545357.chunk.js.LICENSE.txt",
     "static/media/aninda.png": "/kopishop/static/media/aninda.7ffeedfd.png",
     "static/media/gambar1.jpg": "/kopishop/static/media/gambar1.df479a72.jpg",
     "static/media/gambar2.jpg": "/kopishop/static/media/gambar2.87bc96b5.jpg",
@@ -24,10 +24,10 @@
     "static/media/point3.jpg": "/kopishop/static/media/point3.adbc754c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.efdeb199.js",
+    "static/js/runtime-main.70f63bec.js",
     "static/css/2.4b6e3ef2.chunk.css",
-    "static/js/2.02a83670.chunk.js",
+    "static/js/2.bd545357.chunk.js",
     "static/css/main.df24cb87.chunk.css",
-    "static/js/main.7f47350f.chunk.js"
+    "static/js/main.24d74969.chunk.js"
   ]
 }
