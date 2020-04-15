@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kopishop/static/css/main.42639e65.chunk.css",
-    "main.js": "/kopishop/static/js/main.a07ab355.chunk.js",
-    "main.js.map": "/kopishop/static/js/main.a07ab355.chunk.js.map",
+    "main.js": "/kopishop/static/js/main.3d5495af.chunk.js",
+    "main.js.map": "/kopishop/static/js/main.3d5495af.chunk.js.map",
     "runtime-main.js": "/kopishop/static/js/runtime-main.efdeb199.js",
     "runtime-main.js.map": "/kopishop/static/js/runtime-main.efdeb199.js.map",
     "static/js/2.30169821.chunk.js": "/kopishop/static/js/2.30169821.chunk.js",
     "static/js/2.30169821.chunk.js.map": "/kopishop/static/js/2.30169821.chunk.js.map",
     "index.html": "/kopishop/index.html",
-    "precache-manifest.c6bc75c8ba464d0ae6729c6cdcad4c2d.js": "/kopishop/precache-manifest.c6bc75c8ba464d0ae6729c6cdcad4c2d.js",
+    "precache-manifest.3b0efa96d4747211908b5f9c7697a813.js": "/kopishop/precache-manifest.3b0efa96d4747211908b5f9c7697a813.js",
     "service-worker.js": "/kopishop/service-worker.js",
     "static/css/main.42639e65.chunk.css.map": "/kopishop/static/css/main.42639e65.chunk.css.map",
     "static/js/2.30169821.chunk.js.LICENSE.txt": "/kopishop/static/js/2.30169821.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.efdeb199.js",
     "static/js/2.30169821.chunk.js",
     "static/css/main.42639e65.chunk.css",
-    "static/js/main.a07ab355.chunk.js"
+    "static/js/main.3d5495af.chunk.js"
   ]
 }

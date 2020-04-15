@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2572ede295c94ac1216c95b6c5541745",
+    "revision": "5a22dbeaf51c1f1048024c0dbb59aa87",
     "url": "/kopishop/index.html"
   },
   {
-    "revision": "85f2a6e683c90aabbb31",
+    "revision": "5ba28a1963180183d385",
     "url": "/kopishop/static/css/main.42639e65.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kopishop/static/js/2.30169821.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85f2a6e683c90aabbb31",
-    "url": "/kopishop/static/js/main.a07ab355.chunk.js"
+    "revision": "5ba28a1963180183d385",
+    "url": "/kopishop/static/js/main.3d5495af.chunk.js"
   },
   {
     "revision": "98849594e795270ed15f",
