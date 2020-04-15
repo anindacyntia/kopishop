@@ -1,33 +1,23 @@
 {
   "files": {
-    "main.css": "/kopishop/static/css/main.df24cb87.chunk.css",
-    "main.js": "/kopishop/static/js/main.24d74969.chunk.js",
-    "main.js.map": "/kopishop/static/js/main.24d74969.chunk.js.map",
-    "runtime-main.js": "/kopishop/static/js/runtime-main.70f63bec.js",
-    "runtime-main.js.map": "/kopishop/static/js/runtime-main.70f63bec.js.map",
-    "static/css/2.4b6e3ef2.chunk.css": "/kopishop/static/css/2.4b6e3ef2.chunk.css",
-    "static/js/2.bd545357.chunk.js": "/kopishop/static/js/2.bd545357.chunk.js",
-    "static/js/2.bd545357.chunk.js.map": "/kopishop/static/js/2.bd545357.chunk.js.map",
+    "main.css": "/kopishop/static/css/main.42639e65.chunk.css",
+    "main.js": "/kopishop/static/js/main.a07ab355.chunk.js",
+    "main.js.map": "/kopishop/static/js/main.a07ab355.chunk.js.map",
+    "runtime-main.js": "/kopishop/static/js/runtime-main.efdeb199.js",
+    "runtime-main.js.map": "/kopishop/static/js/runtime-main.efdeb199.js.map",
+    "static/js/2.30169821.chunk.js": "/kopishop/static/js/2.30169821.chunk.js",
+    "static/js/2.30169821.chunk.js.map": "/kopishop/static/js/2.30169821.chunk.js.map",
     "index.html": "/kopishop/index.html",
-    "precache-manifest.e5201b0b3a460ce4a546d0c370868cee.js": "/kopishop/precache-manifest.e5201b0b3a460ce4a546d0c370868cee.js",
+    "precache-manifest.c6bc75c8ba464d0ae6729c6cdcad4c2d.js": "/kopishop/precache-manifest.c6bc75c8ba464d0ae6729c6cdcad4c2d.js",
     "service-worker.js": "/kopishop/service-worker.js",
-    "static/css/2.4b6e3ef2.chunk.css.map": "/kopishop/static/css/2.4b6e3ef2.chunk.css.map",
-    "static/css/main.df24cb87.chunk.css.map": "/kopishop/static/css/main.df24cb87.chunk.css.map",
-    "static/js/2.bd545357.chunk.js.LICENSE.txt": "/kopishop/static/js/2.bd545357.chunk.js.LICENSE.txt",
-    "static/media/aninda.png": "/kopishop/static/media/aninda.7ffeedfd.png",
-    "static/media/gambar1.jpg": "/kopishop/static/media/gambar1.df479a72.jpg",
-    "static/media/gambar2.jpg": "/kopishop/static/media/gambar2.87bc96b5.jpg",
-    "static/media/gambar3.jpg": "/kopishop/static/media/gambar3.59d2eb9e.jpg",
-    "static/media/gambar4.jpg": "/kopishop/static/media/gambar4.64040c70.jpg",
-    "static/media/point1.jpg": "/kopishop/static/media/point1.9ae5d456.jpg",
-    "static/media/point2.jpg": "/kopishop/static/media/point2.1739bfa1.jpg",
-    "static/media/point3.jpg": "/kopishop/static/media/point3.adbc754c.jpg"
+    "static/css/main.42639e65.chunk.css.map": "/kopishop/static/css/main.42639e65.chunk.css.map",
+    "static/js/2.30169821.chunk.js.LICENSE.txt": "/kopishop/static/js/2.30169821.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kopishop/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70f63bec.js",
-    "static/css/2.4b6e3ef2.chunk.css",
-    "static/js/2.bd545357.chunk.js",
-    "static/css/main.df24cb87.chunk.css",
-    "static/js/main.24d74969.chunk.js"
+    "static/js/runtime-main.efdeb199.js",
+    "static/js/2.30169821.chunk.js",
+    "static/css/main.42639e65.chunk.css",
+    "static/js/main.a07ab355.chunk.js"
   ]
 }
