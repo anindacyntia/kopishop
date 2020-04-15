@@ -4,7 +4,7 @@ import {
 } from "react-router-dom";
 
 function ArticleCard(prop) {
-  const { id, categoryName, title,postedAt,summary,imageUrl } = prop;
+  const { id, categoryName, title, postedAt, summary, imageUrl } = prop;
   return (
     <div className="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
       <div className="col p-4 d-flex flex-column position-static">
@@ -43,7 +43,7 @@ class Blog extends React.Component {
   }
 
   componentDidMount() {
-    fetch("/api/blog")
+    fetch("https://dev-reservasi.technow.id/api/blog")
       .then(res => res.json())
       .then(json =>
         this.setState({
@@ -75,7 +75,12 @@ class Blog extends React.Component {
         {this.state.data.map((article, index) => (
           <div className="col-md-6" key={index}>
             <ArticleCard
-              id={article.id}
+              id={article.id} 
+              categoryName={article.categoryName} 
+              title={article.title} 
+              postedAt={article.postedAt} 
+              summary={article.summary} 
+              imageUrl={article.imageUrl}
             />
           </div>
         ))}
@@ -83,4 +88,5 @@ class Blog extends React.Component {
     );
   }
 }
+
 export default Blog;

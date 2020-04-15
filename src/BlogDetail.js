@@ -1,39 +1,16 @@
 import React from "react";
 
 function ArticleCard(props) {
-  const  title, summary, imageUrl  = props;
+  const  {title, summary, imageUrl}  = props;
   return (
     <div className="col-lg-8">
-      <h1 className="mt-4">title</h1>
+      <h1 className="mt-4">{title}</h1>
 
       <img className="img-fluid rounded" src={imageUrl} alt={title} />
 
       <hr />
 
-      <p className="lead">summary</p>
-      <blockquote className="blockquote">
-        <p className="mb-0">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-          posuere erat a ante.
-        </p>
-        <footer className="blockquote-footer">
-          Someone famous in
-          <cite title="Source Title">Source Title</cite>
-        </footer>
-      </blockquote>
-
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error,
-        nostrum, aliquid, animi, ut quas placeat totam sunt tempora commodi
-        nihil ullam alias modi dicta saepe minima ab quo voluptatem obcaecati?
-      </p>
-
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, dolor
-        quis. Sunt, ut, explicabo, aliquam tenetur ratione tempore quidem
-        voluptates cupiditate voluptas illo saepe quaerat numquam recusandae?
-        Qui, necessitatibus, est!
-      </p>
+      <p className="lead">{summary}</p>
 
       <hr />
     </div>
@@ -52,7 +29,7 @@ class DetailBlog extends React.Component {
 
   componentDidMount() {
     const { articleId } = this.props.match.params;
-    fetch("/api/blog/" + articleId)
+    fetch("https://dev-reservasi.technow.id/api/blog/" + articleId)
       .then(res => res.json())
       .then(json =>
         this.setState({
@@ -95,3 +72,4 @@ class DetailBlog extends React.Component {
   }
 }
 
+export default DetailBlog;
