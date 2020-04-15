@@ -2,7 +2,7 @@
   "name": "web3ap",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://anindacyntia.github.io/kopishop/",
+  "homepage": "https://anindacyntia.github.io/kopishop",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
